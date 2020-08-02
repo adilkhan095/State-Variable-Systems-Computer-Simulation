@@ -1,5 +1,6 @@
 # Stock-Market-Time-Series-Analysis
 UTA EE 5322 Spring 2019
+This Project was created to as a part of coursework for UTA EE 5322 under Dr Frank Lewis.
 
 HOW TO RUN THE CODE: 1) Make sure the Excel files (attached in the repository) are in the same folder as the .m file.
 
